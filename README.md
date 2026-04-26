@@ -68,3 +68,6 @@ Join our community of developers creating universal apps.
 
 ### Referral Screen
 ![referral] (screenshots/referral.jpeg)
+
+### Points Screen
+![points] (screenshots/points.jpeg)
