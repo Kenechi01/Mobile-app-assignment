@@ -48,3 +48,23 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## App Screenshots
+
+### Welcome Screen
+![welcome](screenshots/welcome.jpeg)
+
+### Login Screen
+![email](screenshots/email.jpeg)
+
+### Email Screen
+![dashboard](screenshots/dashboard.jpeg)
+
+### Home Screen
+![plans](screenshots/plans.jpeg)
+
+### Forgot Screen
+![password] (screenshots/password.jpeg)
+
+### Referral Screen
+![referral] (screenshots/referral.jpeg)
